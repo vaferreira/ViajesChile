@@ -1,6 +1,6 @@
-# Título del Proyecto
+# VIAJES CHILE
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este proyecto tiene el proposito de demostrar los conocimientos adquiridos durante el modulo 2 del curso Full Stack Java Trainee_
 
 ## Comenzando 🚀
 
@@ -66,8 +66,11 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [Visual Studio Code](http://www.dropwizard.io/1.0.2/docs/) - editor de texto visualizado
 * [Font Awesome](https://fontawesome.com/) - Framework para iconos
+* [Font Awesome CDN](https://cdnjs.com/libraries/font-awesome/) - CDN utilizado para libreria externa
 * [Bootstrap](https://getbootstrap.com/) - Framework de estilos
-* [Google Font](https://fonts.google.com/) - Libreria externa para las fuentes.
+* [Google Font](https://fonts.google.com/) - Libreria externa para las fuentes
+* [JQuery](https://releases.jquery.com/) - Libreria externa de javascript para efectos visuales
+* [JQueryCDN](https://code.jquery.com/jquery-3.6.0.js/) - CDN utilizado para libreria externa
 
 ## Contribuyendo 🖇️
 
@@ -88,19 +91,3 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
-
-
-
----
-⌨️ con ❤️ por (https://github.com/) 😊

@@ -56,7 +56,7 @@
         </nav>
 
         <!-- header - carrusel -->
-        <header id="inicio" class=" bg-dark">
+        <header id="inicio" class="bg-dark">
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -83,7 +83,7 @@
             </div>
         </header>
         <!-- quienes somos -->
-        <div id="quienessomos" class="container p-5 text-white d-none d-md-block d-lg-block">
+        <div id="quienessomos" class="container text-white p-5 d-none d-md-block d-lg-block">
             <h3 class="text-center pb-3">¿QUIÉNES SOMOS?</h3>
 
             <hr style="height:2px;width:100%; color:rgb(25, 222, 236);" class="mx-auto">
@@ -141,7 +141,7 @@
         </div>
 
         <!-- destacados - tarjetas -->
-        <div id="destacados" class="text-white container p-5">
+        <div id="destacados" class="container text-white p-5">
             <h3 class="text-center pb-2">DESTACADOS</h3>
 
             <hr style="height:2px;width:100%; color:rgb(25, 222, 236);" class="mx-auto">
@@ -212,7 +212,10 @@
                     <textarea class="form-control" id="Mensaje" rows="7"></textarea>
                 </div>
                 <div>
-                    <button type="submit" class="btn btn-info text-white">Enviar</button>
+                    <!-- boton con tooltip -->
+                    <button id="enviarmensaje" type="submit" class="btn btn-info text-white" data-bs-toggle="tooltip"
+                        data-bs-placement="right" title="Presionar para enviar tu mensaje">Enviar</button>
+
                 </div>
 
             </form>
@@ -228,8 +231,10 @@
                 <div class="col-6 text-center ">
                     <a href="https://github.com/"><i class="fa-brands fa-github-square fa-2x mx-2 text-white"></i> </a>
                     <a href="https://www.linkedin.com/"><i class="fa-brands fa-linkedin fa-2x mx-2 text-white"></i> </a>
-                    <a href="https://www.twitter.com/"><i class="fa-brands fa-twitter-square fa-2x mx-2 text-white "></i> </a>
-                    <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook-square fa-2x mx-2 text-white"></i> </a>
+                    <a href="https://www.twitter.com/"><i
+                            class="fa-brands fa-twitter-square fa-2x mx-2 text-white "></i> </a>
+                    <a href="https://www.facebook.com/"><i
+                            class="fa-brands fa-facebook-square fa-2x mx-2 text-white"></i> </a>
 
                 </div>
             </div>
